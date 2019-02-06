@@ -1,2 +1,2 @@
-# Loan-Prediction
-Loan Prediction problem repository
+# Loan-Status-Prediction
+Loan Status Prediction problem repository
